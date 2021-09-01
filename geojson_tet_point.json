@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": 1616234625000,
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_month.geojson",
+    "title": "USGS Magnitude 2.5+ Earthquakes, Past Month",
+    "status": 200,
+    "api": "1.10.3",
+    "count": 2045
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [75.1268988, 29.6260665, 4.12]
+      }
+    }
+  ]
+}
